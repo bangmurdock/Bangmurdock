@@ -4,21 +4,8 @@
 
 
 <h1 align="center">Hi 👋, BANG MURDOCK JOMBLO SEMOGA DIRIMU DAPAT WANITA SPEK YALI YALI YAH😊</h1>
-<html lang="en">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
-   Image Page
-  </title>
-  <script src="https://cdn.tailwindcss.com">
-  </script>
- </head>
- <body class="bg-black flex items-center justify-center min-h-screen">
-  <img alt="A person in a black suit looking downwards in a black and white photograph" class="max-w-full h-auto" height="720" src="IMG_20250315_063548_208.jpg" width="720"/>
- </body>
-</html>
 
+<a href="https://ibb.co.com/b53RbYZw"><img src="https://i.ibb.co.com/Wv3pV7w8/IMG-20250315-063548-208.jpg" alt="IMG-20250315-063548-208" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online jpg</a><br />
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murdockxd&label=Profile%20views&color=0e75b6&style=flat" alt="murdockxd" /> </p>
