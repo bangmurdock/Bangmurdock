@@ -4,9 +4,7 @@
 
 
 <h1 align="center">Hi 👋, BANG MURDOCK JOMBLO SEMOGA DIRIMU DAPAT WANITA SPEK YALI YALI YAH😊</h1>
-
-<a href="https://ibb.co.com/b53RbYZw"><img src="https://i.ibb.co.com/Wv3pV7w8/IMG-20250315-063548-208.jpg" alt="IMG-20250315-063548-208" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online jpg</a><br />
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<a href="https://ibb.co.com/b53RbYZw"><img src="https://i.ibb.co.com/b53RbYZw/IMG-20250315-063548-208.jpg" alt="IMG-20250315-063548-208" border="0"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murdockxd&label=Profile%20views&color=0e75b6&style=flat" alt="murdockxd" /> </p>
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
