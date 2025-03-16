@@ -7,7 +7,7 @@
 
 <img src="https://github.com/bangmurdock/Bangmurdock/blob/301047fc0993fc0ee7202238bebbc8a3fe0952c8/IMG_20250226_033303_258.jpg">
 
-#💙💙💙💙💙💙💙💙💙💙💙
+                  😍💙
 <img src="https://github.com/bangmurdock/Bangmurdock/blob/bfa8c8bf962120cad94f99a52edb8e6fa3707f93/IMG_20250317_021124.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murdockxd&label=Profile%20views&color=0e75b6&style=flat" alt="murdockxd" /> </p>
