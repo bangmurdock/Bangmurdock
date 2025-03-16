@@ -15,7 +15,7 @@
   </script>
  </head>
  <body class="bg-black flex items-center justify-center min-h-screen">
-  <img alt="A person in a black suit looking downwards in a black and white photograph" class="max-w-full h-auto" height="720" src="https://storage.googleapis.com/a1aa/image/vP0oUjHbhleQ4E53sXy0cx7vMUpihX8SiBFTgrVMJXw.jpg" width="720"/>
+  <img alt="A person in a black suit looking downwards in a black and white photograph" class="max-w-full h-auto" height="720" src="IMG_20250315_063548_208.jpg" width="720"/>
  </body>
 </html>
 
