@@ -4,6 +4,46 @@
 
 
 <h1 align="center">Hi 👋, BANG MURDOCK JOMBLO SEMOGA DIRIMU DAPAT WANITA SPEK YALI YALI YAH😊</h1>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Code Room
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+ </head>
+ <body class="bg-gray-900 text-white h-screen flex items-center justify-center">
+  <div class="relative w-full h-full flex items-center justify-center">
+   <div class="absolute top-0 left-0 w-full h-full bg-gray-800 opacity-75">
+   </div>
+   <div class="relative z-10 flex flex-col items-center">
+    <div class="flex items-center justify-center">
+     <img alt="Profile picture of a person with messy hair, wearing a hoodie with 'MURDOCK' written on the back, sitting in front of multiple computer screens displaying code" class="rounded-full w-24 h-24" height="100" src="https://storage.googleapis.com/a1aa/image/pCw57Jv0zWcWmBn5pL6GEkAqOg5r6LoPZf7Lt78reEY.jpg" width="100"/>
+    </div>
+    <div class="mt-4 text-center">
+     <h1 class="text-4xl font-bold">
+      MURDOCK
+     </h1>
+    </div>
+    <div class="mt-8 flex space-x-4">
+     <img alt="Laptop screen displaying code" class="w-48 h-36" height="150" src="https://storage.googleapis.com/a1aa/image/V5KuLpXx8zgqKysJno0TJy9F5N6ESZDWf7BUx1uIFgM.jpg" width="200"/>
+     <img alt="Main monitor displaying code" class="w-72 h-48" height="200" src="https://storage.googleapis.com/a1aa/image/c9IzcF764WpZA7qFegcOcjqDlWb-3u3zEE6P5FQ8kBU.jpg" width="300"/>
+     <img alt="Laptop screen displaying code" class="w-48 h-36" height="150" src="https://storage.googleapis.com/a1aa/image/V5KuLpXx8zgqKysJno0TJy9F5N6ESZDWf7BUx1uIFgM.jpg" width="200"/>
+    </div>
+    <div class="mt-8 flex flex-col items-center">
+     <img alt="Profile picture of a person with messy hair, wearing a hoodie with 'MURDOCK' written on the back, sitting in front of multiple computer screens displaying code" class="w-24 h-24" height="100" src="https://storage.googleapis.com/a1aa/image/pCw57Jv0zWcWmBn5pL6GEkAqOg5r6LoPZf7Lt78reEY.jpg" width="100"/>
+     <p class="mt-2 text-sm">
+      Code Room
+     </p>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murdockxd&label=Profile%20views&color=0e75b6&style=flat" alt="murdockxd" /> </p>
