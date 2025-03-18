@@ -6,8 +6,7 @@
 <h1 align="center">Hi 👋, ANGGI MAULANA</h1>
 
 <img src="https://github.com/bangmurdock/Bangmurdock/blob/301047fc0993fc0ee7202238bebbc8a3fe0952c8/IMG_20250226_033303_258.jpg">
-<img src="https://github.com/bangmurdock/Bangmurdock/blob/4130d0aa0cee70fcdbbbca5322848b1aa4698ed8/IMG_20250317_022546.jpg">
-  <img src="https://github.com/bangmurdock/Bangmurdock/blob/bfa8c8bf962120cad94f99a52edb8e6fa3707f93/IMG_20250317_021124.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murdockxd&label=Profile%20views&color=0e75b6&style=flat" alt="murdockxd" /> </p>
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
