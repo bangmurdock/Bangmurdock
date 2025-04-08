@@ -3,10 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, ANGGI MAULANA</h1>
-
-<img src="https://github.com/bangmurdock/Bangmurdock/blob/301047fc0993fc0ee7202238bebbc8a3fe0952c8/IMG_20250226_033303_258.jpg">
-
+<h1 align="center">Hi 👋, BANG MURDOCK</h1>
 
 
 
